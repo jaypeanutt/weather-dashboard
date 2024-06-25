@@ -1,0 +1,9 @@
+
+header{
+    background-image: linear-gradient(to right, rgb(0, 99, 213) , rgb(22, 1, 113));
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(100, 218, 218);
+    font-weight:800;
+    padding: 10px;
+}
